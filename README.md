@@ -18,7 +18,7 @@ pip install targon
 
 As I am too lazy to write docs for now, it might just be better to simply use the template for matches.
 
-Take a look a the [examples](http://github.com/Canisback/targon/examples).
+Take a look a the [examples](https://github.com/Canisback/targon/tree/master/examples).
 
 Targon supports [Solari](https://github.com/Canisback/solari) as an add-on. To use it, you have to install it separately (as in it is not installed when installing Targon).
 
